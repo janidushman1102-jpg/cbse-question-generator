@@ -1,7 +1,7 @@
 export const AI_CONFIG = {
   provider: 'gemini', // 'gemini', 'openai', or 'claude'
   gemini: {
-    apiKey: 'YOUR_GOOGLE_GEMINI_API_KEY',
+    apiKey: 'AIzaSyB240jlViGtIHmwebjSa0p_1qQdBSUp8EM',
     model: 'gemini-pro'
   },
   openai: {
